@@ -1,4 +1,4 @@
-# Memory Matching Game 🧠
+# Memory Tiles Game 🧠
 
 A simple and engaging memory matching game built using HTML, CSS, and JavaScript, designed to fit within a QR code as part of the Hack Club [SayCheese](https://saycheese.hackclub.com/) (YSWS) program.
 
